@@ -1,0 +1,21 @@
+{
+  "name": "cursors",
+  "version": "1.0.0",
+  "description": "CSS utility module for cursors",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jongold/cursors.git"
+  },
+  "keywords": [
+    "CSS",
+    "Cursors",
+    "OOCSS"
+  ],
+  "author": "Jon Gold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jongold/cursors/issues"
+  },
+  "homepage": "https://github.com/jongold/cursors"
+}
